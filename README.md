@@ -1,6 +1,6 @@
 ## Hello!
 
-## Teck Stack
+### Teck Stack
 
 <div > 
   Languages
